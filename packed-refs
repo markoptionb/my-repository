@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+99276482085de7a814b8cafbf19b94473ebc4184 refs/remotes/origin/master
+7bf9e51129ceefcfdc7282bcc38065c1c6bcf367 refs/remotes/origin/wip-bump-mocha-ver
+fa9a0ebc85cd021812e3de7bd695a566caea7fdf refs/remotes/origin/wip-canvas-branch
+4788efabada6c50d1b85f3e222da44d5a66e11cd refs/remotes/origin/wip-review
+7114f63acd953191d0cf5222efd7ac9d3328ae8c refs/remotes/origin/wip-v2.01
